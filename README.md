@@ -21,12 +21,6 @@ This repository showcases my work as a **Security Researcher**, **Smart Contract
   - Fuzzing & Symbolic Execution
   - Real-world exploit breakdowns
 
-## 🚀 Featured Work
-
-- ✅ [Contest Writeups](./contests)
-- 🔬 [Invariant Tests & Fuzzing](./fuzzing)
-- 🧾 [Audit Reports](./reports)
-
 ## 💬 About Me
 
 Security Researcher / 💻 Smart Contract Engineer / 🔐 Cybersecurity  
